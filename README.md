@@ -30,4 +30,10 @@
 >19:25:58.097733: creating 5000000 objects  
 >19:25:58.444596: created  
 
-#### Каждый из этапов помечен на графиках
+## Каждый из этапов помечен на графиках 
+
+#### График 1
+![График 1](https://github.com/Zea10th/javacore-jvm/blob/401a8a205c3e0fbde483edbdce89bdb4b48dd756/VisualVM%202.1%202021-07-25%2019-42-02.jpg)  
+
+#### График 2
+![График 2](https://github.com/Zea10th/javacore-jvm/blob/401a8a205c3e0fbde483edbdce89bdb4b48dd756/VisualVM%202.1%202021-07-25%2019-51-49.png)
